@@ -8,9 +8,9 @@ Horiseon is a website html document containing the coding and css requirements f
 
 Click clone or download repository.  
 
-Copy the provided HTTP url link.  
+[Repository Link](https://github.com/CFsylvester/Horiseon){target="_blank"}
 
-[Repository Link](https://github.com/CFsylvester/run-buddy)   
+Copy the provided HTTP url link.  
 
 Access terminal (Command space bar terminal).  
 
