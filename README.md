@@ -8,6 +8,8 @@ Horiseon is a website html document containing the coding and css requirements f
 
 Click clone or download repository.  
 
+
+<a href="https://github.com/CFsylvester/Horiseon" target="_blank"> Horiseon-Homepage </a>
 [Repository Link](https://github.com/CFsylvester/Horiseon){target="_blank"}
 
 Copy the provided HTTP url link.  
