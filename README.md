@@ -4,28 +4,49 @@
 ## Description
 Horiseon is a website html document containing the coding and css requirements from the Horiseon design team. This was created as part of UPENN's Coding Bootcamp, Module 1. 
 
-![horiseon homepage](./assets/images/horiseon-homepage.jpg)
+## Table of Contents
+  - [Usage](#Usage)
+  - [Installation](#installation)
+  - [Technology Used](#technology-used)
+  - [Questions](#questions)
+  - [Links](#links)
+  - [License](#license)
+  
+## Usage
+
+#### Horiseon Homepage:
+<img src="/assets/images/homepage.png" alt="Horiseon Homepage" width="200"/>
+
+#### Responsive Navigation:
+<img src="/assets/images/responsive-nav.png" alt="Horiseon Responsive Navigation" width="200"/>
+
+#### Responsive Body:
+<img src="/assets/images/responsive-body.png" alt="Horiseon Responsive Body" width="200"/>
+
+#### Responsive Navigation:
+<img src="/assets/images/responsive-sidebar.png" alt="Horiseon Responsive Sidebar" width="200"/>
 
 ## Installation
+<br />Navigate to directory you wish to save the clone to.  <br />
+  `git clone https://github.com/CFsylvester/Horiseon.git` <br />
+<br />Open the index.html in default terminal <br />
 
-[Repository Link](https://github.com/CFsylvester/Horiseon)
-
-Click clone or download repository. 
-
-Access terminal (Command space bar terminal).  
-
-Navigate to directory you wish to save the clone to.  
-
-Type: git clone (paste url here).  
-
-
+ ## Questions
+  Please reach out to me at [clairesylvester@clairecodes.dev](mailto:clairesylvester@clairecodes.dev?subject=[GitHub%Horiseon]%20Source%20Han%20Sans)
 
 ## Usage
 Through creating proper id's and links, the Horiseon site has the ability to link the user from the navigation bar to the desired section in the main content of the page. 
 
+## Technologies Used
 
-## Contributing
-This was created by cloning a starter code given by the coding bootcamp website. Then refactoring the code to meet the applicable acceptance criteria. All images and text blurbs were provided along the cloned code. As well as the desired outcome of the website's layout and accessability standards. 
+![HTML](https://img.shields.io/badge/-HTML-white?style=for-the-badge)![CSS](https://img.shields.io/badge/-CSS-9cf?style=for-the-badge)![Media Queries](https://img.shields.io/badge/-Media%Queries-white?style=for-the-badge)
+
+ ## Links
+  - **[Deployed App](https://cfsylvester.github.io/Horiseon/)**
+  - **[GitHub Repo](https://github.com/CFsylvester/Horiseon)**
+  - **[My Portfolio](clairecodes.dev)**
+  - **[Connect on LinkedIn](https://www.linkedin.com/in/claire-sylvester-386373143/)**
+  - **[GitHub profile](https://github.com/CFsylvester)    ![Github Followers](https://img.shields.io/github/followers/CFsylvester?style=social)**
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+ This application uses the MIT license.
