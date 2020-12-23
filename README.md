@@ -23,7 +23,7 @@ Horiseon is a responsive website created using pure CSS and HTML. To create resp
 #### Responsive Body:
 <img src="/assets/images/responsive-body.png" alt="Horiseon Responsive Body" width="400"/>
 
-#### Responsive Navigation:
+#### Responsive Sidebar:
 <img src="/assets/images/responsive-sidebar.png" alt="Horiseon Responsive Sidebar" width="400"/>
 
 ## Installation
