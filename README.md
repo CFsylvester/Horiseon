@@ -26,6 +26,9 @@ Horiseon is a responsive website created using pure CSS and HTML. To create resp
 #### Responsive Sidebar:
 <img src="/assets/images/responsive-sidebar.png" alt="Horiseon Responsive Sidebar" width="400"/>
 
+### Responsive Sidebar Mobile:
+<img src="/assets/images/responsive-aside.png" alt="Horiseon Responsive Sidebar" width="400"/>
+
 ## Installation
 <br />Navigate to directory you wish to save the clone to.  <br />
   `git clone https://github.com/CFsylvester/Horiseon.git` <br />
